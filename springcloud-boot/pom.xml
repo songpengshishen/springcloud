@@ -11,4 +11,12 @@
     <artifactId>springcloud-boot</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.wsp</groupId>
+            <artifactId>springcloud-web</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+
 </project>
