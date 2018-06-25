@@ -17,6 +17,11 @@
             <artifactId>springcloud-web</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.wsp</groupId>
+            <artifactId>springcloud-registry-eureka</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>

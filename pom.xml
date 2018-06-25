@@ -9,6 +9,7 @@
         <module>springcloud-boot</module>
         <module>springcloud-web</module>
         <module>springcloud-consumer</module>
+        <module>springcloud-registry-eureka</module>
     </modules>
     <packaging>pom</packaging>
     <name>springcloud</name>
