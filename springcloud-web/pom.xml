@@ -20,6 +20,11 @@
             <artifactId>springcloud-provider</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.wsp</groupId>
+            <artifactId>springcloud-consumer</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>

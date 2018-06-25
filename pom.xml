@@ -8,6 +8,7 @@
         <module>springcloud-provider</module>
         <module>springcloud-boot</module>
         <module>springcloud-web</module>
+        <module>springcloud-consumer</module>
     </modules>
     <packaging>pom</packaging>
     <name>springcloud</name>
@@ -46,6 +47,10 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
     </dependencies>
 
