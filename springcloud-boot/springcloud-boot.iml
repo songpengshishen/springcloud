@@ -49,6 +49,7 @@
     <orderEntry type="library" name="Maven: com.h2database:h2:1.4.196" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.5.9.RELEASE" level="project" />
     <orderEntry type="module" module-name="springcloud-consumer" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-ribbon:1.4.0.RELEASE" level="project" />
     <orderEntry type="module" module-name="springcloud-registry-eureka" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:1.4.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:1.3.0.RELEASE" level="project" />
